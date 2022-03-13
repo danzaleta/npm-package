@@ -1,5 +1,5 @@
 {
-  "name": "npm-package",
+  "name": "npm-package-dz",
   "version": "1.0.0",
   "description": "Build a custom node package that return random messages",
   "main": "src/index.js",
