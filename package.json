@@ -17,6 +17,10 @@
   ],
   "author": "Daniel Zaleta <zaletadaniel@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/danzaleta/npm-package/issues"
   },
